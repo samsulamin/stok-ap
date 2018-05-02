@@ -1,3 +1,3 @@
 <?php
-	echo'selamat datang di indomaret, mau sekalian isi pulsa mas.?
+	echo'selamat datang di indomaret, mau sekalian isi pulsa mas.?'
 ?>
